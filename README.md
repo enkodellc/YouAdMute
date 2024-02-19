@@ -23,5 +23,5 @@ Click on the YouMute icon at the top right of the browser window to toggle the d
 ## Credits
 
 Forked from 
-[https://chrome.google.com/webstore/detail/youmute/bhlmjoeobnofoajffmnpcahfaffihmbh](https://github.com/sshongru/YouMute)">
- [Available in the Chrome Web Store](https://github.com/sshongru/YouMute)https://github.com/sshongru/YouMute
+
+[https://github.com/sshongru/YouMute](https://github.com/sshongru/YouMute)
