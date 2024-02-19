@@ -1,10 +1,10 @@
 #!/bin/bash          
 
 echo "-------"
-echo "YouMute"
+echo "YouAdMute"
 echo "-------"
 echo "Packaging ZIP file for Chrome Web Store..."
 
-zip YouMute.zip inject.css inject.js logo.png manifest.json
+zip YouAdMute.zip inject.css inject.js logo.png manifest.json
 
 echo "-------"
