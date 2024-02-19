@@ -1,5 +1,5 @@
 html.muteAdsEnabled:before {
-    content: 'YouMute Enabled';
+    content: 'YouAdMute Enabled';
     font-family: Roboto, arial, sans-serif;
     font-size: 60%;
     text-align: center;
@@ -17,11 +17,11 @@ html.muteAdsEnabled:before {
 
 /* Blur video ads while they are muted */
 .muteAdsEnabled.adInProgress video {
-    -webkit-filter: blur(10px) grayscale(1) !important;
+   /* -webkit-filter: blur(10px) grayscale(1) !important; */
 }
 
 .muteAdsEnabled.adInProgress .html5-video-player:before {
-    content: 'Ad muted by YouMute';
+    content: 'YouAdMute Muted';
     display: block;
     position: absolute;
     left: 50%;
@@ -55,16 +55,16 @@ html.muteAdsEnabled:before {
 .hideBannersEnabled .ad-container,
 .hideBannersEnabled .ytp-ad-overlay-container,
 .hideBannersEnabled .ytp-ad-player-overlay {
-    display: none !important;
+    /*display: none !important;*/
 }
 
 /* Turn off those silly clickable annotations */
 .hideAnnotationsEnabled .video-annotations {
-    display: none !important;
+   /* display: none !important;*/
 }
 
 /* Turn off author's suggested next video and subscribe button annotations */
 .hideAnnotationsEnabled .ytp-cards-teaser,
 .hideAnnotationsEnabled .annotation {
-    display: none !important;
+   /* display: none !important;*/
 }
