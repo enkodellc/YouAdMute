@@ -8,7 +8,7 @@ This Chrome extension automatically mutes ads that show up while watching a YouT
 1. In Chrome go to Window > Extensions
 1. Click the checkbox to enable "Developer mode"
 1. Click the "Load Unpacked Extension" button
-1. Choose the YouMute folder that you cloned in step 1
+1. Choose the YouAdMute folder that you cloned in step 1
 
 Or download the extension directly from the Chrome Web Store:
 
