@@ -1,6 +1,6 @@
 # YouMute
 
-This Chrome extension automatically mutes and blurs annoying video ads that show up while watching a YouTube video.  It also auto clicks the "Skip Ad" button as soon as it becomes enabled.  Any other dismissable ads or boxes that sometimes appear over top of the video are never shown.
+This Chrome extension automatically mutes ads that show up while watching a YouTube video.  It also auto clicks the "Skip Ad" button as soon as it becomes enabled.
 
 ## Installation Instructions
 
@@ -19,3 +19,9 @@ Or download the extension directly from the Chrome Web Store:
 ## Settings
 
 Click on the YouMute icon at the top right of the browser window to toggle the different settings.
+
+## Credits
+
+Forked from 
+[https://chrome.google.com/webstore/detail/youmute/bhlmjoeobnofoajffmnpcahfaffihmbh](https://github.com/sshongru/YouMute)">
+ [Available in the Chrome Web Store](https://github.com/sshongru/YouMute)https://github.com/sshongru/YouMute
