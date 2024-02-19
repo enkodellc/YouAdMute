@@ -1,4 +1,4 @@
-# YouMute
+# YouAdMute
 
 This Chrome extension automatically mutes ads that show up while watching a YouTube video.  It also auto clicks the "Skip Ad" button as soon as it becomes enabled.
 
