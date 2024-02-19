@@ -1,8 +1,8 @@
 {
-    "name": "YouMute",
-    "short_name": "YouMute",
-    "description": "Automatically mute and skip YouTube\u2122 video ads",
-    "version": "0.2.0",
+    "name": "YouAdMute",
+    "short_name": "YouAdMute",
+    "description": "Automatically mute and skip YouTube video ads",
+    "version": "0.3.0",
     "manifest_version": 3,
     "icons": {
         "128": "logo.png"
